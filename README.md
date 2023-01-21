@@ -1,6 +1,6 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Arimuuuura)
+![GitHub Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arimuuuura)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Arimuuuura&langs_count=10)
+![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arimuuuura&langs_count=10)
 
 [お天気アプリ](https://arimuuuura.github.io/)
 
