@@ -1,4 +1,4 @@
-![GitHub Stats Card]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arimuuuura&show_icons=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arimuuuura&show_icons=true&count_private=true&theme=prussian))
+![GitHub Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arimuuuura&show_icons=true&count_private=true&theme=prussian)
 
 ![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arimuuuura&langs_count=10)
 
